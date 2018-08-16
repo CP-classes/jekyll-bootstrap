@@ -81,27 +81,28 @@ Media Queries
   }
 
   .site-title .h1 {
-    font-size: .8em;    /* was 1.2 */
+    font-size: 1.2em;    /* was 1.2 */
   }
 }
 
 
 @media (max-width: 900px) {
 
-  .subtitle {
-    display: none;
+  body {
+    width: 60%;
   }
 
 }
 
 @media (max-width: 600px) {
 
-  .site-title {
+  .site-title .h1 {
+font-size: .6em; 
     margin: 0;
     padding: 0;
-    max-width: 100%;
-    width: 100%;
-    text-align: center;
+    max-width: 50%;
+    width: 50%;
+    text-align: left;
     float: none;
     line-height: 56px; /* height of header */
   }
