@@ -3,6 +3,6 @@ permalink: /:year/:title/
 paginate: 10
 exclude: []
 name: Jekyll Bootstrap
-baseurl: /jekyll-bootstrap
+baseurl: /jekyll-bootstrap-cp
 
 theme: jekyll-theme-minimal
