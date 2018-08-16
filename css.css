@@ -37,13 +37,13 @@ p {
 	float: left;
 }
 
-.content h3.title{
+.content h3.title a {
 	color: #555cda;
 	background: #f5f5f5;
 	padding-left: 5px;
 }
 
-.page-header h3.title {
+.page-header h3.title a {
 	color: #555cda;	
 }
 
@@ -113,11 +113,11 @@ Media Queries
 }
 
 	header h1, header h1 a .h1 {
-		font-size: 1.2em; 
+		font-size: 1.05em; 
 		margin-left: 10px;
 		padding: 0;
-		max-width: 60%;
-		width: 60%;
+		max-width: 70%;
+		width: 70%;
 		text-align: left;
 		float: none;
 		line-height: 56px; /* height of header */
