@@ -106,8 +106,8 @@ Media Queries
 	
 	.post_content {
 		margin-left: 20px;
-		max-width: 40%;
-		width: 40%;
+		max-width: 80%;
+		width: 80%;
 }
 	.content h3.title{
 		margin-left: 20px;
