@@ -1,7 +1,7 @@
 header h1, header h1 a{
 	text-align: left;
 	margin: 40px 0 20px 10px;
-	font-size: 1.8em;
+	font-size: 2.05em;
 	letter-spacing: -2px;
 	color: #616d8c;        /*#404040;*/
 	text-decoration: none;
@@ -18,14 +18,17 @@ body {
 .container{
 	margin-bottom: 60px;
 }
+p {
+	font-size: 1.2em;
+	line-height: 1.8;
+}
+	
 
 .content{
 	color: #616d8c;
 	margin-left: 0;
 	margin-top: 20px;
 	float: left;
-		font-size: 1.2em;
-	line-height: 1.8;
 }
 
 .content h3.title{
