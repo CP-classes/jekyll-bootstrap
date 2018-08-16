@@ -11,7 +11,8 @@ body {
 	background: #f2eee5;    /*#ede7da;*/
 	color: #444;
 	font-family: 'Sarala', sans-serif;
-	line-height: 1.5;
+	font-size: 1.2em;
+	line-height: 1.8;
 }
 
 .container{
