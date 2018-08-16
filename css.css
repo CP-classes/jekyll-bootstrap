@@ -26,8 +26,9 @@ p {
 }
 
 .highlighter-rouge  {
-	font-size: .95em;
+	font-size: .875em;
 	line-height: 1.8;
+	background: #e7cba3;
 }
 
 .content{
@@ -116,8 +117,8 @@ Media Queries
 		font-size: 1.05em; 
 		margin-left: 10px;
 		padding: 0;
-		max-width: 70%;
-		width: 70%;
+		max-width: 75%;
+		width: 75%;
 		text-align: left;
 		float: none;
 		line-height: 56px; /* height of header */
