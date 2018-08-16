@@ -25,7 +25,7 @@ p {
 }
 
 .highlighter-rouge  {
-	font-size: 1.2em;
+	font-size: 1.0em;
 	line-height: 1.8;
 }
 
@@ -85,9 +85,9 @@ Media Queries
     font-size: 0.875em;
   }
 
-  .site-title .h1 {
+/*  .site-title .h1 {
     font-size: 1.2em;    /* was 1.2 */
-  }
+  } */
 }
 
 
