@@ -51,3 +51,55 @@ pre code{
 	color: #404040;
 	padding: 0;
 }
+/*
+Media Queries
+--------------------------- */
+@media (max-width: 1110px) {
+  body {
+    font-size: 0.875em;
+  }
+
+  .site-title {
+    font-size: .8em;    /* was 1.2 */
+  }
+}
+
+
+@media (max-width: 900px) {
+
+  .subtitle {
+    display: none;
+  }
+
+}
+
+@media (max-width: 600px) {
+
+  .site-title {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    float: none;
+    line-height: 56px; /* height of header */
+  }
+  .site-nav {
+    float: none;
+    min-width: 100%;
+    width: 100%;
+    text-align: center;
+  }
+  .nav-list {
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-list li {
+    display: block;
+    text-align: left;
+    margin: .5em 0;
+  }
+
+}
+
