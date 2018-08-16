@@ -1,5 +1,5 @@
 header h1, header h1 a{
-	text-align: center;
+	text-align: left;
 	margin: 40px 0 20px 0;
 	font-size: 40px;
 	letter-spacing: -2px;
@@ -8,7 +8,7 @@ header h1, header h1 a{
 }
 
 body {
-	background: #fff;
+	background: #ede7da;
 	color: #444;
 	font-family: 'Lato', sans-serif;
 	line-height: 1.5;
@@ -19,7 +19,7 @@ body {
 }
 
 .content{
-	color: red;
+	color: #616d8c;
 	margin-left: 0;
 	margin-top: 20px;
 	float: left;
