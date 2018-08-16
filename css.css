@@ -30,13 +30,13 @@ header h1, header h1 a{
 .sidebar{
 	margin-top: 20px;
 	float: right;
-	display: hide;
+	display: none;
 }
 
 .sidebar h6{
 	line-height: 18px;
 	font-size: 14px;
-	display: hide;
+	display: none;
 }
 
 #bottom_page ul p{
