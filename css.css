@@ -30,11 +30,13 @@ header h1, header h1 a{
 .sidebar{
 	margin-top: 20px;
 	float: right;
+	display: hide;
 }
 
 .sidebar h6{
 	line-height: 18px;
 	font-size: 14px;
+	display: hide;
 }
 
 #bottom_page ul p{
@@ -59,7 +61,7 @@ Media Queries
     font-size: 0.875em;
   }
 
-  .site-title {
+  .site-title .h1 {
     font-size: .8em;    /* was 1.2 */
   }
 }
