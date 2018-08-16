@@ -11,7 +11,7 @@ body {
 	background: #f2eee5;    /*#ede7da;*/
 	color: #444;
 	font-family: 'Sarala', sans-serif;
-	font-size: 16px;
+	/*font-size: 16px;*/
 	line-height: 1.8;
 }
 
@@ -95,9 +95,13 @@ Media Queries
 }
 
 @media (max-width: 600px) {
+	.span16 content {
+	max-width: 50%;
+	width: 50%;
+}
 
   .site-title .h1 {
-font-size: .6em; 
+	font-size: .6em; 
     margin: 0;
     padding: 0;
     max-width: 50%;
@@ -105,7 +109,7 @@ font-size: .6em;
     text-align: left;
     float: none;
     line-height: 56px; /* height of header */
-  }
+}
   .site-nav {
     float: none;
     min-width: 100%;
