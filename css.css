@@ -8,7 +8,7 @@ header h1, header h1 a{
 }
 
 body {
-	background: #ede7da;
+	background: #f2eee5;    /*#ede7da;*/
 	color: #444;
 	font-family: 'Lato', sans-serif;
 	line-height: 1.5;
@@ -26,9 +26,13 @@ body {
 }
 
 .content h3.title{
-	color: #11c4d4;
+	color: #6268e0;
 	background: #f5f5f5;
 	padding-left: 5px;
+}
+
+h3 {
+	color: #6268e0;	
 }
 
 #bottom_page{
