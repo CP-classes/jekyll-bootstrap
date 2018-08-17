@@ -105,10 +105,10 @@ Media Queries
 @media (max-width: 600px) {
 	
 	.post_content {
-		font-size: 0.95em;
+		font-size: 1.4em;
 		margin-left: 20px;
-		max-width: 80%;
-		width: 80%;
+		max-width: 100%;
+		width: 100%;
 }
 	.content h3.title{
 		margin-left: 20px;
